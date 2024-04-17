@@ -3,3 +3,4 @@
 echo "Hello World"
 echo "Test 2"
 ls
+echo "test"
